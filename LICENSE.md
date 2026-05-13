@@ -1,4 +1,4 @@
-
+ultimate Plugin for iStat Menus for macOS - menu-bar-customization and quick-launch offers the most advanced iStat Menus for macOS plugin, with menu-bar-customization and
 
 
 
